@@ -1,0 +1,117 @@
+.navbar-brand{
+    color: white;
+    font-weight: 700;
+}
+
+.card{
+    background-color: transparent;
+    border: white 8px;
+    border-left: none;
+    border-right: none;
+}
+.cuki1{
+    background-image:url(image/sd.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.cuki2{
+    background-image:url(image/sd.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.cuki3{
+    background-image:url(image/sd.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+
+h1 span{
+    color: #875439;
+    font-weight: 700;
+}
+
+a span{
+    color: #875439;
+}
+
+h2 span{
+    color: #875439;
+}
+
+.col-md-6 h2{
+    font-weight: 700;
+}
+
+.card-text{
+    font-weight: 700;
+}
+.card-text span{
+    color: #875439;
+
+}
+
+.ghj{
+    list-style-type: none;
+    color: black;
+}
+
+.kjkl{
+    font-weight: 700;
+}
+
+.row h2{
+    color: red;
+    font-weight: 700;
+}
+
+.lll span{
+    color: yellow;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.futer{
+    text-align: center;
+    background-color:#2B3035 ;
+    padding-top: 1.2rem;
+    min-height: 10rem;
+}
+
+.futer i a{
+    padding: 1rem;
+    color: #2B3035;
+}
+
+.puterkles{
+
+    color: white;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.puterkles li{
+    padding: 0.4rem;
+    margin-right: 1rem;
+}
+
+.puterkles li a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    opacity: 0.7;
+    transition: 0.3;
+}
+
+.fk{
+    padding-right: 2 0rem;
+    margin-top: 3rem;
+    justify-content: space-evenly;
+}
+
+.fk img {
+    width: 280px;
+    height: 270px;
+}
